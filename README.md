@@ -43,8 +43,7 @@
 <h2 align="left">Activity</h2>
 
 ###
-![Snake animation]
-https://raw.githubusercontent.com/MarioMSI/MarioMSI/output/github-contribution-grid-snake-dark.svg
+<img alt="GitHub Snake" src="https://raw.githubusercontent.com/MarioMSI/MarioMSI/output/github-contribution-grid-snake.svg" />
 
 
 ###
