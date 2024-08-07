@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Mario and I'm a Data Scientist.<br><br>🤖Currently working as Data Scientist and IA Developer<br>🔭 I’m currently working on IA applications<br>📚 I'm currently learning Typescript, more NLP<br>👯 I’m looking to collaborate on Data Projects</p>
+<p align="left">My name is Mario and I'm a Data Scientist.<br><br>🤖Currently working as Data Scientist and IA Developer<br>🔭 I’m currently working on IA applications<br>📚 I'm currently learning Cloud, Machine Learning, NLP and Typescript<br>👯 I’m looking to collaborate on Data Projects</p>
 
 ###
 
